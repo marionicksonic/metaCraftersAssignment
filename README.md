@@ -55,9 +55,6 @@ you can also test the contract in the remix ide with the remix vm
 PROBLEMS WITH CONTRACT
 
 anyone can mint tokens
-PROBLEMS WITH CONTRACT
-
-anyone can mint tokens
 extra functionality is required to make sure only moderator address can mint tokens
 
 anyone can burn tokens even if they don't own those tokens
