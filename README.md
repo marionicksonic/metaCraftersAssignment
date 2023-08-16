@@ -4,7 +4,7 @@ A simple blockchain currency with functionality for minting and burning
 
 ## Description
 
-code is found in the file nicksonic.sol
+My code is found in the file nicksonic.sol
 
 blockchain token named NSC
 
