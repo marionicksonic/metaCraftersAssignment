@@ -19,7 +19,7 @@ contract MyToken {
     // public variables here
     string public tokenName = 'nicksonic';
     string public tokenAbbrv = 'NSC';
-    uint public totalSupply = 0;
+    uint public totalSupply = 0.00;
 
     // mapping variable here
     mapping(address => uint) public balances;
