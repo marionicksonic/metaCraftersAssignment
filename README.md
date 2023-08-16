@@ -36,7 +36,9 @@ you can also test the contract in the remix ide with the remix vm
 
 * start by minting tokens to a given address using the mint function
 
-    this requires you to input the address you are minting to, and the amount of tokens you want to mint.* now you can check the balance of that address using the balances function
+    this requires you to input the address you are minting to, and the amount of tokens you want to mint.
+
+  * now you can check the balance of that address using the balances function
 
     this requires you to input the address of the user whose balance, you want to check
 
