@@ -7,7 +7,7 @@ The contract is called `opendAndCloseDoor` and has four functions: `lockdoor`, `
 ## How to use this contract
 
 1. Open the Remix IDE in your browser.
-2. Create a new file and name it `opendAndCloseDoor.sol`.
+2. Create a new file and name it `errors.sol`.
 3. Copy and paste the code from this file into the new file.
 4. Compile the contract by clicking the "Compile" button in the Remix IDE.
 5. Deploy the contract by clicking the "Deploy" button in the Remix IDE.
