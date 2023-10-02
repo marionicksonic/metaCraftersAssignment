@@ -1,4 +1,4 @@
-# Door and Lock smart Contract
+# Open and Close door smart Contract
 
 This is a smart contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. 
 
